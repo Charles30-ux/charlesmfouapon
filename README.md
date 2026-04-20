@@ -1,6 +1,6 @@
 # Hi! 
 
-I am Charles Mfouapon, a lawyer and software/quantitative finance engineer.
+I am Charles Mfouapon, a lawyer and quantitative finance engineer.
 
 ---
 
