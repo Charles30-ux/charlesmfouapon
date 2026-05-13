@@ -1,6 +1,6 @@
 # Hi! 
 
-I am Charles Mfouapon, a lawyer, writer and quantitative finance engineer.
+I am Charles Mfouapon, a legal scholar, writer and quantitative finance engineer.
 
 ---
 
@@ -11,8 +11,6 @@ I am Charles Mfouapon, a lawyer, writer and quantitative finance engineer.
 * I am a former Portfolio & Risk Analyst at [BlackRock](https://www.blackrock.com/)
 
 * I made this cv - [https://charlesmfouapon.github.io](https://charlesmfouapon.github.io/) in HTML, CSS and JavaScript.
-
-* I am currently working on an institutional-grade risk management platform I coined [ASI PRIME](https://github.com/charles30-ux/ASI-PRIME) built for real-time volatility analysis and stochastic modeling.
 
 ---
 
@@ -33,6 +31,3 @@ I am Charles Mfouapon, a lawyer, writer and quantitative finance engineer.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-mfouapon-115857292?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesmfouapon@outlook.com)
 
-
-
-> "Logic is the beginning of wisdom, not the end." — *Applied to both Law and Code.*
